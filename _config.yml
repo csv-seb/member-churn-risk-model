@@ -1,0 +1,5 @@
+remote_theme: pages-themes/midnight@v0.2.0
+title: "Member Churn Risk Modeling — Predicting Who Leaves, and When"
+description: null
+plugins:
+  - jekyll-remote-theme
