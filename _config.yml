@@ -1,5 +1,3 @@
 remote_theme: pages-themes/midnight@v0.2.0
-title: "When Members Leave: Survival Analysis and Churn Risk Modeling for Service Populations"
-description: null
 plugins:
   - jekyll-remote-theme
