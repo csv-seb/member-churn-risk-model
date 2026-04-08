@@ -1,5 +1,4 @@
 # Member Churn Risk Modeling
-### Predicting Member Disengagement in Service Populations
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-orange.svg)](https://scikit-learn.org/)
