@@ -145,16 +145,3 @@ Data loads automatically from the `/Datasets` folder via relative paths. No manu
 ## Author
 
 **Sebastián Méndez Ramírez** 
-<style>
-  header { display: none !important; }
-  .wrapper { 
-    width: 95% !important; 
-    max-width: 1100px !important; 
-    margin: 0 auto !important; 
-    float: none !important;
-  }
-  section { 
-    width: 100% !important; 
-    float: none !important; 
-  }
-</style>
